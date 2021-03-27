@@ -1,0 +1,9 @@
+Setup
+
+I. Downloade den Ordner "App" und kopiere alle Datensätze in den gleichen Ordner wie "app.R"
+
+II. Installiere alle libraries (s. requirements.txt)
+
+III. Setze den Pfad zum Ordner mit app.R und allen Datensätzen als dein wd (line 21 in app.R)
+
+IV. Klicke auf "Run App"

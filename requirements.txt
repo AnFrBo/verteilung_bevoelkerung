@@ -1,0 +1,14 @@
+#Installiere die folgenden libraries
+
+library("rsconnect")
+library("shiny")
+library("readxl")
+library("sf")
+library("dplyr")
+library("ggplot2")
+library("ggthemes")
+library("rmapshaper")
+library("shinydashboard")
+library("wesanderson")
+library("reshape2")
+library("RColorBrewer")
